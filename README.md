@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=%232A6D8C&color=%23182a4485" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=mailto%3Aryan.gduzanowski%40gmail.com&logoColor=%232A6D8C&color=%23182a4485" />
 </p>
 
 <p align="center">
@@ -26,6 +27,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanDznwsk/RyanDznwsk/output/github-contribution-grid-snake.svg" />
     <img alt="github snake animation" src="https://raw.githubusercontent.com/RyanDznwsk/RyanDznwsk/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</p>
+
+# <p align="center">Tecnologias</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py" />
 </p>
 
 <p align="center">

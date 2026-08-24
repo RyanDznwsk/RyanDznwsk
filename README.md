@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=mailto%3Aryan.gduzanowski%40gmail.com&logoColor=%232A6D8C&color=%23182a4485" />
+  <img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=Whatsapp&link=https%3A%2F%2Fwa.me%2F5547999119328&logoColor=%232A6D8C&color=%23182a4485" />
 </p>
 
 <p align="center">

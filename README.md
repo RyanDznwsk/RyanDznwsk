@@ -17,5 +17,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanDznwsk/RyanDznwsk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanDznwsk/RyanDznwsk/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/RyanDznwsk/RyanDznwsk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06294e,50:1e5b67,100:65a8c7&section=footer&reversal=false" width="100%" alt="footer" />
 </p>

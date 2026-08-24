@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,figma" />
 </p>
 
 <p align="center">

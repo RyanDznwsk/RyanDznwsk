@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=Whatsapp&link=https%3A%2F%2Fwa.me%2F5547999119328&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&link=www.linkedin.com/in/ryan-gabriel-duzanowski-7915623b3&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=Lattes&link=http://lattes.cnpq.br/0836121346235820&logoColor=%232A6D8C&color=%23182a4485" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&link=http://lattes.cnpq.br/0836121346235820&logoColor=%232A6D8C&color=%23182a4485" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&link=https://github.com/RyanDznwsk&logoColor=%232A6D8C&color=%23182a4485" />
 </p>
 
 <p align="center">

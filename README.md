@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/hayakawa.gd?igsi=MWNhanU0dnJ6d2l4eg==&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&link=mailto%3Aryan.gduzanowski%40gmail.com&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=Whatsapp&link=https%3A%2F%2Fwa.me%2F5547999119328&logoColor=%232A6D8C&color=%23182a4485" />
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&link=https://discordapp.com/users/1541525197813977258&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&link=www.linkedin.com/in/ryan-gabriel-duzanowski-7915623b3&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=Lattes&link=http://lattes.cnpq.br/0836121346235820&logoColor=%232A6D8C&color=%23182a4485" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&link=https://github.com/RyanDznwsk&logoColor=%232A6D8C&color=%23182a4485" />

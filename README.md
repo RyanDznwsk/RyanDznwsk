@@ -1,6 +1,8 @@
 <center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=175&color=0:06294e,50:1e5b67,100:65a8c7&section=header&reversal=false)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:06294e,50:1e5b67,100:65a8c7&section=header&reversal=false" width="100%" alt="header" />
+</p>
 
 <br>
 <br>
@@ -16,6 +18,8 @@
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06294e,50:1e5b67,100:65a8c7&section=footer&reversal=false)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06294e,50:1e5b67,100:65a8c7&section=footer&reversal=false" width="100%" alt="footer" />
+</p>
 
 </center>
